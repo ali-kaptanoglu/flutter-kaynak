@@ -1,5 +1,5 @@
-# flutter-kaynak
+# flutter kaynakları
 
-# Using Riverpod Future Provider to Fetch API
+### Using Riverpod Future Provider to Fetch API
 
 https://medium.com/@surajadkhari/using-riverpod-future-provider-to-fetch-api-7706cad3718e
