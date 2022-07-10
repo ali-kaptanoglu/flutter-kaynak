@@ -16,3 +16,5 @@ https://blog.logrocket.com/implementing-inkwell-class-flutter/
 https://medium.flutterdevs.com/explore-shimmer-animation-effect-in-flutter-7b0e46a9c722
 
 http://www.engincode.com/flutter-selector-inkwell-change-background-color-when-user-pressed
+
+https://docs.flutter.dev/development/tools/sdk/release-notes/release-notes-3.0.0
