@@ -18,3 +18,5 @@ https://medium.flutterdevs.com/explore-shimmer-animation-effect-in-flutter-7b0e4
 http://www.engincode.com/flutter-selector-inkwell-change-background-color-when-user-pressed
 
 https://docs.flutter.dev/development/tools/sdk/release-notes/release-notes-3.0.0
+
+https://medium.com/flutter-t%C3%BCrkiye/flutter-null-safety-nedir-nas%C4%B1l-ge%C3%A7i%C5%9F-yapabiliriz-875bbaf11fc6
