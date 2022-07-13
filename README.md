@@ -22,3 +22,5 @@ https://docs.flutter.dev/development/tools/sdk/release-notes/release-notes-3.0.0
 https://medium.com/flutter-t%C3%BCrkiye/flutter-null-safety-nedir-nas%C4%B1l-ge%C3%A7i%C5%9F-yapabiliriz-875bbaf11fc6
 
 https://bestflutterpack.com/home-screen-widget-creation-in-flutter/
+
+https://bestflutterpack.com/how-to-set-flutter-app-badge/
