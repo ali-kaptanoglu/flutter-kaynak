@@ -26,3 +26,5 @@ https://bestflutterpack.com/home-screen-widget-creation-in-flutter/
 https://bestflutterpack.com/how-to-set-flutter-app-badge/
 
 https://bestflutterpack.com/flutter-widget-that-automatically-resizes-text-to-fit-perfectly-within-its-bounds/
+
+https://www.flutterbeads.com/button-with-icon-and-text-flutter/
