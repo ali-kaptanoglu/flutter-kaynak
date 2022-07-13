@@ -24,3 +24,5 @@ https://medium.com/flutter-t%C3%BCrkiye/flutter-null-safety-nedir-nas%C4%B1l-ge%
 https://bestflutterpack.com/home-screen-widget-creation-in-flutter/
 
 https://bestflutterpack.com/how-to-set-flutter-app-badge/
+
+https://bestflutterpack.com/flutter-widget-that-automatically-resizes-text-to-fit-perfectly-within-its-bounds/
