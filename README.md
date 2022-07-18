@@ -28,3 +28,5 @@ https://bestflutterpack.com/how-to-set-flutter-app-badge/
 https://bestflutterpack.com/flutter-widget-that-automatically-resizes-text-to-fit-perfectly-within-its-bounds/
 
 https://www.flutterbeads.com/button-with-icon-and-text-flutter/
+
+https://www.kindacode.com/article/working-with-elevatedbutton-in-flutter/
