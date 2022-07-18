@@ -1,4 +1,4 @@
-# flutter kaynakları
+# flutter ile ilgili bloglar yazılar..
 
 ### Using Riverpod Future Provider to Fetch API
 
@@ -30,3 +30,5 @@ https://bestflutterpack.com/flutter-widget-that-automatically-resizes-text-to-fi
 https://www.flutterbeads.com/button-with-icon-and-text-flutter/
 
 https://www.kindacode.com/article/working-with-elevatedbutton-in-flutter/
+
+https://petercoding.com/firebase/2020/02/25/using-firebase-auth-in-flutter/
