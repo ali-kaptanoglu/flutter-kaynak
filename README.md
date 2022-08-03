@@ -36,3 +36,5 @@ https://petercoding.com/firebase/2020/02/25/using-firebase-auth-in-flutter/
 https://www.kindacode.com/article/how-to-read-local-json-files-in-flutter/
 
 https://www.tutorialkart.com/flutter/flutter-banner/
+
+https://flutterawesome.com/custom-snackbar-in-flutter/
