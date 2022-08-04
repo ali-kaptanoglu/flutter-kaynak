@@ -42,3 +42,5 @@ https://flutterawesome.com/custom-snackbar-in-flutter/
 https://mobileappdevs.quora.com/How-to-Build-a-Clubhouse-Clone-App-on-Flutter-with-Agora-and-Firebase-A-Tutorial-by-Perpetio-Part-I
 
 https://github.com/perpetio/fitness
+
+https://medium.com/perpetio/how-to-build-a-clubhouse-clone-app-on-flutter-with-agora-and-firebase-a-tutorial-by-perpetio-96640a3b430c
