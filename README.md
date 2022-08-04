@@ -38,3 +38,5 @@ https://www.kindacode.com/article/how-to-read-local-json-files-in-flutter/
 https://www.tutorialkart.com/flutter/flutter-banner/
 
 https://flutterawesome.com/custom-snackbar-in-flutter/
+
+https://mobileappdevs.quora.com/How-to-Build-a-Clubhouse-Clone-App-on-Flutter-with-Agora-and-Firebase-A-Tutorial-by-Perpetio-Part-I
