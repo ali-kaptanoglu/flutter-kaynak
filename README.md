@@ -46,3 +46,5 @@ https://github.com/perpetio/fitness
 https://medium.com/perpetio/how-to-build-a-clubhouse-clone-app-on-flutter-with-agora-and-firebase-a-tutorial-by-perpetio-96640a3b430c
 
 https://stackoverflow.com/questions/68703157/flutter-text-on-image-in-flutter
+
+https://dev.to/infiniteoverflow/build-apis-for-various-http-methods-in-dart-n87
