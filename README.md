@@ -48,3 +48,6 @@ https://medium.com/perpetio/how-to-build-a-clubhouse-clone-app-on-flutter-with-a
 https://stackoverflow.com/questions/68703157/flutter-text-on-image-in-flutter
 
 https://dev.to/infiniteoverflow/build-apis-for-various-http-methods-in-dart-n87
+
+Resim sıkıştırma ve kesme
+https://medium.flutterdevs.com/image-compress-crop-in-flutter-4ea8dacc2b6f
